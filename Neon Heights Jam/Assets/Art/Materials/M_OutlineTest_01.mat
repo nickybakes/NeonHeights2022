@@ -74,6 +74,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SUBGOutline_14ac9bfe270c4668a9d40d9414dc9b63_SketchTexture_318067012:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SketchTexture:
+        m_Texture: {fileID: 2800000, guid: 53cae55cfa874074c9d55ec4613dcf83, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -100,7 +108,7 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
-    - _DepthThreshold: 1
+    - _DepthThreshold: 0.92
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -111,7 +119,8 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _OutlineAcuteStartDot: 2
-    - _OutlineDepthStrength: 2.96
+    - _OutlineCutoff: 0.3
+    - _OutlineDepthStrength: 3.53
     - _OutlineDepthTightening: 0.61
     - _OutlineFarNormalEndDepth: 10
     - _OutlineFarNormalStartDepth: 1
@@ -119,7 +128,7 @@ Material:
     - _OutlineNormalStrength: 1
     - _OutlineNormalThreshold: 1
     - _OutlineNormalTightening: 1
-    - _OutlineThickness: 0.005
+    - _OutlineThickness: 0.003
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
