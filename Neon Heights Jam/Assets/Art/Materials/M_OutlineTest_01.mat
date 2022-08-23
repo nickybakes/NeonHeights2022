@@ -110,15 +110,15 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
-    - _OutlineAcuteStartDot: 0.9
-    - _OutlineDepthStrength: 1
-    - _OutlineDepthTightening: 1
+    - _OutlineAcuteStartDot: 2
+    - _OutlineDepthStrength: 2.96
+    - _OutlineDepthTightening: 0.61
     - _OutlineFarNormalEndDepth: 10
     - _OutlineFarNormalStartDepth: 1
     - _OutlineFarNormalThreshold: 1
     - _OutlineNormalStrength: 1
     - _OutlineNormalThreshold: 1
-    - _OutlineNormalTightening: 169.4
+    - _OutlineNormalTightening: 1
     - _OutlineThickness: 0.005
     - _Parallax: 0.005
     - _QueueControl: 0
