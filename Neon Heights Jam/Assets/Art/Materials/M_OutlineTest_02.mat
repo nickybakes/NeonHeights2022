@@ -124,8 +124,8 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _IntersectionDistance: 4
-    - _MeshScale: 0.07
+    - _IntersectionDistance: 1
+    - _MeshScale: 0.08
     - _MeshScaleRandomness: 0.06
     - _Metallic: 0
     - _OcclusionStrength: 1
@@ -141,6 +141,8 @@ Material:
     - _OutlineNormalThreshold: 1
     - _OutlineNormalTightening: 1
     - _OutlineThickness: 0.003
+    - _PanX: 0
+    - _PanY: 0
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
